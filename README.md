@@ -1,5 +1,14 @@
 # Refactoring Code
 
+## Site Picture
+! [site](./assets/images/horiseon-pic.png)
+
+## Technologies Used
+- HTML - 
+- CSS - 
+- Git - 
+- GitHub - 
+
 ## Description
 
 The purpose of refactoring the code for Horiseon was to add semantic HTML into the website, as well as, improve the logical workflow of the webpage code.  The end result improved the accessibility standards for anyone with disabilities who need assistive technology to access the webpage.
